@@ -70,6 +70,9 @@ The Smart Table project relies on both hardware and software components. The mai
 4. **Serving Orders:** Waiters are notified of ready orders via the staff application.
 5. **Payment and Review:** Customers can make electronic payments and submit reviews through the application.
 
+## 📂 Additional Information
+Due to the proprietary nature of the code, the source code for this project is not available.
+
 ## ✨ Conclusion
 Thank you for exploring the Smart Table project! This project showcases the integration of technology to enhance dining experiences and streamline restaurant operations.
 
